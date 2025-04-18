@@ -26,4 +26,4 @@ An interactive and user-friendly quiz application built using **HTML**, **CSS**,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   [git clone [https://github.com/Bala-K3/Quiz-App.git]()]
