@@ -14,6 +14,10 @@ An interactive and user-friendly quiz application built using **HTML**, **CSS**,
 
 ![Quiz App Screenshot]
 ![Screenshot 2025-04-18 111042](https://github.com/user-attachments/assets/123f935e-631d-49c6-956e-8d73a9490b4f)
+![Screenshot 2025-04-18 110942](https://github.com/user-attachments/assets/fe9012cf-befb-49d0-bc6f-a319f448f9da)
+![Screenshot 2025-04-18 111020](https://github.com/user-attachments/assets/06db535e-d47a-408b-bfb7-1a94f8ae3238)
+
+
 
 
 ## 🛠️ Technologies Used
